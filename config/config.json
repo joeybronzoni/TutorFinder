@@ -1,23 +1,17 @@
 {
   "development": {
-    "username": "root",
-    "password": "Oliver",
-    "database": "tutors_db",
+    "username": "",
+    "password": "",
+    "database": "",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "test": {
-    "username": "root",
-    "password": "Oliver",
+    "username": "",
+    "password": "",
     "database": "tutors_db",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
-  "production": {
-    "username": "pcjh0ur0g26sgcoq",
-    "password": "yab82c0j5u4i0q0v",
-    "database": "bcfu3sstvpouxoen",
-    "host": "d6vscs19jtah8iwb.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
-    "dialect": "mysql"
-  }
+
 }
